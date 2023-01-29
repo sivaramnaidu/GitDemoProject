@@ -8,6 +8,8 @@ public class Test1 {
 		System.out.println("eat something");
 		else {
 			System.out.println("be happy");
+			System.out.println("be happy");
+			
 		}
 		
 			
